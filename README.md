@@ -32,6 +32,10 @@ Before running this application, ensure you have the following installed:
    ```bash
    pip install ttkthemes
    ```
+   
+## Screenshots
+
+![Main Screen](Main%20Screen.png)
 
 ## Usage
 
